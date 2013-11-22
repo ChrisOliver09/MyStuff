@@ -5,6 +5,10 @@ img{
 	height:200px;
 }
 
+a{
+	text-decoration:none; /*text decorators can make stuff look pretty if you want*/
+}
+
 span{
      /* this can control multiple spans for you */	
 }
