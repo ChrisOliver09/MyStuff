@@ -9,3 +9,7 @@ span{
      /* this can control multiple spans for you */	
 }
 
+p {
+	font-size: 1em; /*em is a type of font size that uses what ever the default is on your screen or device 2em = 2x your default size*/
+}
+
