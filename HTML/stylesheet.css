@@ -18,6 +18,17 @@ p {
 	font-size: 1em; /*em is a type of font size that uses what ever the default is on your screen or device 2em = 2x your default size*/
 }
 
+div{
+	height:50px;
+    width:120px;
+	border-radius:5px; /*this makes the divs corner round!*/
+	margin:auto; /*Hey! Make sure to set equal margins on each side of this HTML element." */
+	border-color:#6495ED;
+    background-color:#bcd2ee;
+    text-decoration: none;
+    text-align: center;
+}
+
 td{
 	border:1px dashed blue; /*borders man, for tables and such*/
 }
