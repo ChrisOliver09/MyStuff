@@ -14,3 +14,10 @@ p {
 	font-size: 1em; /*em is a type of font size that uses what ever the default is on your screen or device 2em = 2x your default size*/
 }
 
+td{
+	border:1px dashed blue; /*borders man, for tables and such*/
+}
+
+table{
+	border:1px solid green; /*borders man, for tables and such*/
+}
