@@ -10,6 +10,7 @@ span{
 }
 
 p {
+	font-family: Verdana,serif; /* you can piggy back fonts like this, first ordered takes priority */ 
 	font-size: 1em; /*em is a type of font size that uses what ever the default is on your screen or device 2em = 2x your default size*/
 }
 
