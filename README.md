@@ -1,4 +1,4 @@
 MyStuff
 =======
 
-First Repo!
+Collection of Code Academy works!
